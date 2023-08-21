@@ -1,2 +1,2 @@
 # bot_press
-bot que deja presionado el clickl ekisde
+bot que deja presionado el click ekisde
